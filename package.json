@@ -1,0 +1,30 @@
+{
+  "name": "sky-layout",
+  "version": "1.0.0",
+  "description": "Reprodução de layout da Sky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bielnick/skylayout.git"
+  },
+  "keywords": [
+    "Layout",
+    "web",
+    "design",
+    "responsive"
+  ],
+  "author": "Gabriel Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bielnick/skylayout/issues"
+  },
+  "homepage": "https://github.com/bielnick/skylayout#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "swiper": "^5.3.1"
+  }
+}
